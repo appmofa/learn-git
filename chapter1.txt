@@ -1,3 +1,6 @@
 my name is mostafa.
 Im here for learning git
 I want to change all of things
+
+this is a story about me
+what do you know about git?
